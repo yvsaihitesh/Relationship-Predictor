@@ -3,7 +3,8 @@
 Welcome to Relationship Predictor, a fun and interactive website where users can enter two names and discover the probable relationship between them. This project brings a delightful touch of animation, dynamic content, and playful emoji effects to make the experience engaging.
 [Features](#features), [HowItWorks](#how-it-works), [Logic](#logic).
 <br>
-Click on the below link to open the website:
+<br>
+Click on the link to open the website:
 [link](https://yvsaihitesh.github.io/Relationship-Predictor/relationshipPredictor.html)
 
 ## Features
